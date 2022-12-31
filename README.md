@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # README.md
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lee Nguyen, but my legal name is Thoi Nguyen, so please don't feel confused when you see my LinkedIn account. I just prefer the state name. 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lee Nguyen, but my legal name is Thoi Nguyen. I just prefer the state name. 
 ==================================================================================================================================
 
 Student. Developer
